@@ -768,7 +768,7 @@
 				PRODUCT_NAME = SwiftWebSocket;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				VALID_ARCHS = x86_64;
 			};
 			name = Debug;
@@ -792,7 +792,7 @@
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				VALID_ARCHS = x86_64;
 			};
 			name = Release;
